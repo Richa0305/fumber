@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>201182241155-2mimkjjnosrqd4bc4ar6ctd2t8e1crk4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.201182241155-2mimkjjnosrqd4bc4ar6ctd2t8e1crk4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNV2sAMyHfkxju1v0Ay2QA5XLWc2g5ld4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>201182241155</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.richa.shivhariapps.fumber</string>
+	<key>PROJECT_ID</key>
+	<string>fumber-5d57a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fumber-5d57a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:201182241155:ios:0ff63258891ef858</string>
+	<key>DATABASE_URL</key>
+	<string>https://fumber-5d57a.firebaseio.com</string>
+</dict>
+</plist>
